@@ -18,3 +18,7 @@
 /phpunit.xml
 .phpunit.result.cache
 ###< phpunit/phpunit ###
+
+###> php error log ###
+php_errors.log
+###< php error log ###
